@@ -1,6 +1,6 @@
 # Face Recognition Attendance System
 
-Automated attendance system using facial recognition with Python and OpenCV. Captures attendance with timestamps and exports to CSV.
+Real -Time Automated attendance system using facial recognition with Python and OpenCV. Captures attendance with timestamps and exports to CSV.
 
 ## Requirements
 
